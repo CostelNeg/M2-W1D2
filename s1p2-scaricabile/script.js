@@ -10,13 +10,19 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/*  I principali datatype che abbiamo in javascript sono gli seguenti : 
+     - Number : Number e un datatype che ti permette di inserire dentro una scattola dei numeri, senza racchiuderli con gli appici tipo : ( 2 - sono un numero ) 
+     - String : Ti permette di inserire in una scattola all'interno del tuo pc un insieme di carratteri racchiusi tra gli appici tipo : ("Sono una stringa")
+     - Boolean : ti conferma che cio che si trova nella scattola sia vera o falsa, cioe ti fa il confronto tra due nomi e vede se sono uguali, tipo Alessio e uguale ad Alessio,
+                 di conseguenza il nostro boolean sara vero.
+     - Array : un insieme di dati salvati nella stessa scattola
+     - Oggetto : e una scatola dove ci sono delle chiavi che hanno delle proprieta di vario tipo, come per esempio stringa, numero o boolean. */
 
 /* ESERCIZIO 2
  Descrivi cos'è un oggetto in JavaScript, con parole tue.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* Un oggetto e uno spazio della memoria del computer alla qualle viene assegnato delle proprieta che hanno una chiave e un valore. */
 
 /* ESERCIZIO 3
  Scriti il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
